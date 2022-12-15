@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_button_search">Recherche</string>
+    <string name="description">Description</string>
+    <string name="language">Langue</string>
+    <string name="forks">Nombre de fork</string>
+    <string name="watchers">Nombre d\'observateur</string>
+    <string name="search_user_hint">Entrer un nom d\'utilisateur</string>
+    <string name="avatar_description">Avatar utilisateur</string>
+    <string name="licence">Licence</string>
+</resources>
